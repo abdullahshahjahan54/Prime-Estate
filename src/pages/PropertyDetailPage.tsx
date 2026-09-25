@@ -86,7 +86,7 @@ export const PropertyDetailPage: React.FC<PropertyDetailPageProps> = ({ slug, on
     '@type': property.propertyType === 'apartment' ? 'Apartment' : 'SingleFamilyResidence',
     name: property.title,
     description: property.description,
-    image: `https://primeestate.vercel.app${property.image}`,
+    image: `https://prime-estate-2qag.vercel.app${property.image}`,
     address: {
       '@type': 'PostalAddress',
       streetAddress: property.address,

@@ -9,26 +9,22 @@ interface SitemapViewPageProps {
 
 export const SitemapViewPage: React.FC<SitemapViewPageProps> = ({ onNavigate }) => {
   const urls = [
-    { loc: 'https://primeestate.vercel.app/', changefreq: 'daily', priority: '1.0', name: 'Homepage (Find Your Perfect Property)' },
-    { loc: 'https://primeestate.vercel.app/properties', changefreq: 'daily', priority: '0.9', name: 'All Properties Directory' },
-    { loc: 'https://primeestate.vercel.app/buy', changefreq: 'daily', priority: '0.9', name: 'Properties for Sale (Houses, Plots, Apartments)' },
-    { loc: 'https://primeestate.vercel.app/rent', changefreq: 'daily', priority: '0.9', name: 'Properties for Rent (Houses, Apartments, Offices)' },
-    { loc: 'https://primeestate.vercel.app/sell-property', changefreq: 'weekly', priority: '0.8', name: 'Sell Your Property Listing Form' },
-    { loc: 'https://primeestate.vercel.app/services', changefreq: 'monthly', priority: '0.8', name: 'Real Estate Services & Valuation' },
-    { loc: 'https://primeestate.vercel.app/investment', changefreq: 'weekly', priority: '0.8', name: 'Property Investment Opportunities' },
-    { loc: 'https://primeestate.vercel.app/locations', changefreq: 'weekly', priority: '0.8', name: 'Locations & Cities Overview' },
-    { loc: 'https://primeestate.vercel.app/locations/islamabad', changefreq: 'weekly', priority: '0.8', name: 'Real Estate in Islamabad' },
-    { loc: 'https://primeestate.vercel.app/locations/lahore', changefreq: 'weekly', priority: '0.8', name: 'Real Estate in Lahore' },
-    { loc: 'https://primeestate.vercel.app/locations/karachi', changefreq: 'weekly', priority: '0.8', name: 'Real Estate in Karachi' },
-    { loc: 'https://primeestate.vercel.app/locations/rawalpindi', changefreq: 'weekly', priority: '0.8', name: 'Real Estate in Rawalpindi' },
-    { loc: 'https://primeestate.vercel.app/properties/luxury-house-islamabad-f7', changefreq: 'weekly', priority: '0.85', name: '1 Kanal Luxury Villa Sector F-7' },
-    { loc: 'https://primeestate.vercel.app/properties/modern-apartment-lahore-gulberg', changefreq: 'weekly', priority: '0.85', name: 'Luxury Apartment Gulberg III' },
-    { loc: 'https://primeestate.vercel.app/properties/commercial-plaza-islamabad-blue-area', changefreq: 'weekly', priority: '0.85', name: 'Commercial Building Blue Area' },
-    { loc: 'https://primeestate.vercel.app/blog', changefreq: 'weekly', priority: '0.8', name: 'Real Estate Guides & Insights' },
-    { loc: 'https://primeestate.vercel.app/blog/how-to-buy-property-complete-guide', changefreq: 'monthly', priority: '0.75', name: 'How to Buy Property Legal Guide' },
-    { loc: 'https://primeestate.vercel.app/agents', changefreq: 'weekly', priority: '0.7', name: 'Real Estate Agents Directory' },
-    { loc: 'https://primeestate.vercel.app/about', changefreq: 'monthly', priority: '0.7', name: 'About Prime Estate' },
-    { loc: 'https://primeestate.vercel.app/contact', changefreq: 'monthly', priority: '0.7', name: 'Contact & Advisory Desk' },
+    { loc: 'https://prime-estate-2qag.vercel.app/', lastmod: '2026-09-25', changefreq: 'daily', priority: '1.0', name: 'Homepage (Find Your Perfect Property)' },
+    { loc: 'https://prime-estate-2qag.vercel.app/properties', lastmod: '2026-09-25', changefreq: 'daily', priority: '0.9', name: 'All Properties Directory' },
+    { loc: 'https://prime-estate-2qag.vercel.app/buy', lastmod: '2026-09-25', changefreq: 'daily', priority: '0.9', name: 'Properties for Sale (Houses, Plots, Apartments)' },
+    { loc: 'https://prime-estate-2qag.vercel.app/rent', lastmod: '2026-09-25', changefreq: 'daily', priority: '0.9', name: 'Properties for Rent (Houses, Apartments, Offices)' },
+    { loc: 'https://prime-estate-2qag.vercel.app/sell-property', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.8', name: 'Sell Your Property Listing Form' },
+    { loc: 'https://prime-estate-2qag.vercel.app/services', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.8', name: 'Real Estate Services & Valuation' },
+    { loc: 'https://prime-estate-2qag.vercel.app/locations', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.8', name: 'Locations & Cities Overview' },
+    { loc: 'https://prime-estate-2qag.vercel.app/agents', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.7', name: 'Real Estate Agents Directory' },
+    { loc: 'https://prime-estate-2qag.vercel.app/blog', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.8', name: 'Real Estate Guides & Insights' },
+    { loc: 'https://prime-estate-2qag.vercel.app/about', lastmod: '2026-09-25', changefreq: 'monthly', priority: '0.7', name: 'About Prime Estate' },
+    { loc: 'https://prime-estate-2qag.vercel.app/contact', lastmod: '2026-09-25', changefreq: 'monthly', priority: '0.7', name: 'Contact & Advisory Desk' },
+    { loc: 'https://prime-estate-2qag.vercel.app/investment', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.8', name: 'Property Investment Opportunities' },
+    { loc: 'https://prime-estate-2qag.vercel.app/properties/luxury-house-islamabad-f7', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.85', name: '1 Kanal Luxury Villa Sector F-7' },
+    { loc: 'https://prime-estate-2qag.vercel.app/properties/modern-apartment-lahore-gulberg', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.85', name: 'Luxury Apartment Gulberg III' },
+    { loc: 'https://prime-estate-2qag.vercel.app/properties/commercial-plaza-islamabad-blue-area', lastmod: '2026-09-25', changefreq: 'weekly', priority: '0.85', name: 'Commercial Building Blue Area' },
+    { loc: 'https://prime-estate-2qag.vercel.app/blog/how-to-buy-property-complete-guide', lastmod: '2026-09-25', changefreq: 'monthly', priority: '0.75', name: 'How to Buy Property Legal Guide' },
   ];
 
   return (
@@ -91,7 +87,7 @@ export const SitemapViewPage: React.FC<SitemapViewPageProps> = ({ onNavigate }) 
             </thead>
             <tbody className="divide-y divide-neutral-100 font-mono">
               {urls.map((u, idx) => {
-                const path = u.loc.replace('https://primeestate.vercel.app', '') || '/';
+                const path = u.loc.replace('https://prime-estate-2qag.vercel.app', '') || '/';
                 return (
                   <tr key={idx} className="hover:bg-neutral-50/50">
                     <td className="py-3 px-4">

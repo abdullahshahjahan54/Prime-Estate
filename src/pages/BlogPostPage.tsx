@@ -47,7 +47,7 @@ export const BlogPostPage: React.FC<BlogPostPageProps> = ({ slug, onNavigate }) 
     '@type': 'Article',
     headline: post.title,
     description: post.metaDescription,
-    image: `https://primeestate.vercel.app${post.featuredImage}`,
+    image: `https://prime-estate-2qag.vercel.app${post.featuredImage}`,
     datePublished: '2026-03-01T08:00:00+05:00',
     dateModified: '2026-03-20T10:00:00+05:00',
     author: {
@@ -60,7 +60,7 @@ export const BlogPostPage: React.FC<BlogPostPageProps> = ({ slug, onNavigate }) 
       name: 'Prime Estate',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://primeestate.vercel.app/og-image.jpg',
+        url: 'https://prime-estate-2qag.vercel.app/og-image.jpg',
       },
     },
   };

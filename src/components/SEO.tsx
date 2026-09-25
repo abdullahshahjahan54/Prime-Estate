@@ -32,7 +32,7 @@ export const SEO: React.FC<SEOProps> = ({
     metaDesc.setAttribute('content', description);
 
     // 3. Update Canonical URL
-    const canonicalUrl = `https://primeestate.vercel.app${canonicalPath.startsWith('/') ? canonicalPath : `/${canonicalPath}`}`;
+    const canonicalUrl = `https://prime-estate-2qag.vercel.app${canonicalPath.startsWith('/') ? canonicalPath : `/${canonicalPath}`}`;
     let canonicalLink = document.querySelector('link[rel="canonical"]');
     if (!canonicalLink) {
       canonicalLink = document.createElement('link');

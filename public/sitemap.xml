@@ -1,149 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Core Brand Pages -->
   <url>
-    <loc>https://primeestate.vercel.app/</loc>
+    <loc>https://prime-estate-2qag.vercel.app/</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/properties</loc>
+    <loc>https://prime-estate-2qag.vercel.app/properties</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/buy</loc>
+    <loc>https://prime-estate-2qag.vercel.app/buy</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/rent</loc>
+    <loc>https://prime-estate-2qag.vercel.app/rent</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/sell-property</loc>
+    <loc>https://prime-estate-2qag.vercel.app/sell-property</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/services</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://primeestate.vercel.app/investment</loc>
+    <loc>https://prime-estate-2qag.vercel.app/services</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/locations</loc>
+    <loc>https://prime-estate-2qag.vercel.app/locations</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/about</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://primeestate.vercel.app/agents</loc>
+    <loc>https://prime-estate-2qag.vercel.app/agents</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/blog</loc>
+    <loc>https://prime-estate-2qag.vercel.app/blog</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/contact</loc>
+    <loc>https://prime-estate-2qag.vercel.app/about</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/contact</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/investment</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 
-  <!-- Key Locations -->
+  <!-- Location Hubs -->
   <url>
-    <loc>https://primeestate.vercel.app/locations/islamabad</loc>
+    <loc>https://prime-estate-2qag.vercel.app/locations/islamabad</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/locations/lahore</loc>
+    <loc>https://prime-estate-2qag.vercel.app/locations/lahore</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/locations/karachi</loc>
+    <loc>https://prime-estate-2qag.vercel.app/locations/karachi</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/locations/rawalpindi</loc>
+    <loc>https://prime-estate-2qag.vercel.app/locations/rawalpindi</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/locations/sector-f7</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/locations/blue-area</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/locations/gulberg-lahore</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/locations/dha-phase-6-lahore</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Properties -->
   <url>
-    <loc>https://primeestate.vercel.app/properties/luxury-house-islamabad-f7</loc>
+    <loc>https://prime-estate-2qag.vercel.app/properties/luxury-house-islamabad-f7</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/properties/modern-apartment-lahore-gulberg</loc>
+    <loc>https://prime-estate-2qag.vercel.app/properties/modern-apartment-lahore-gulberg</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/properties/commercial-plaza-islamabad-blue-area</loc>
+    <loc>https://prime-estate-2qag.vercel.app/properties/commercial-plaza-islamabad-blue-area</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/properties/designer-villa-karachi-clifton</loc>
+    <loc>https://prime-estate-2qag.vercel.app/properties/executive-house-for-rent-islamabad-f6</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/properties/residential-plot-dha-phase-6-lahore</loc>
+    <loc>https://prime-estate-2qag.vercel.app/properties/luxury-apartment-for-rent-lahore-dha</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/properties/executive-penthouse-bahria-town</loc>
+    <loc>https://prime-estate-2qag.vercel.app/properties/residential-plot-dha-phase-6-lahore</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/properties/commercial-plot-bahria-town-rawalpindi</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/properties/designer-villa-karachi-clifton</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/properties/corporate-office-space-for-rent-karachi</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/properties/luxury-farmhouse-islamabad-chak-shahzad</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/properties/commercial-shop-for-sale-lahore</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://prime-estate-2qag.vercel.app/properties/family-house-for-sale-rawalpindi</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
 
-  <!-- Guides & Articles -->
+  <!-- Blog & Real Estate Guides -->
   <url>
-    <loc>https://primeestate.vercel.app/blog/how-to-buy-property-complete-guide</loc>
+    <loc>https://prime-estate-2qag.vercel.app/blog/how-to-buy-property-complete-guide</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/blog/best-areas-to-buy-property-islamabad</loc>
+    <loc>https://prime-estate-2qag.vercel.app/blog/best-areas-to-buy-property-islamabad</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/blog/houses-for-sale-complete-guide</loc>
+    <loc>https://prime-estate-2qag.vercel.app/blog/houses-for-sale-complete-guide</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/blog/commercial-property-investment-guide</loc>
+    <loc>https://prime-estate-2qag.vercel.app/blog/commercial-property-investment-guide</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/blog/house-for-rent-vs-apartment-for-rent</loc>
+    <loc>https://prime-estate-2qag.vercel.app/blog/house-for-rent-vs-apartment-for-rent</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://primeestate.vercel.app/blog/things-to-check-before-buying-house</loc>
+    <loc>https://prime-estate-2qag.vercel.app/blog/things-to-check-before-buying-house</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>

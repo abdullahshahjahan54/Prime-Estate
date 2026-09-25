@@ -22,7 +22,7 @@ export const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items, onNavigate }) =
       '@type': 'ListItem',
       position: index + 1,
       name: item.label,
-      item: item.href ? `https://primeestate.vercel.app${item.href}` : undefined,
+      item: item.href ? `https://prime-estate-2qag.vercel.app${item.href}` : undefined,
     })),
   };
 

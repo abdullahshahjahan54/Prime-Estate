@@ -1,0 +1,6 @@
+{
+  "name": "Prime Estate - Real Estate Agency",
+  "description": "Modern, luxury real estate agency offering houses, apartments, residential plots, commercial properties, and real estate investments in prime locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
